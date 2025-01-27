@@ -1,0 +1,16 @@
+{
+  "HAMDA": {
+    "pool": "Hamster Stake Pool",
+    "ticker": "HAMDA",
+    "preview": "https://preview.cexplorer.io/pool/pool1de0f0sv3hfyjrr5x6yxlrfyw3el7d588w2fuqjg65cr8gevdvpz",
+    "mainnet": "https://cexplorer.io/pool/pool1zdl39pvapcaj5um8nyduaq2vmn64dqwz4qlhnzurnca8zetk74s",
+    "sidechain_pub_key": "0x0221dbff4be52399ee9ba97a9c1fe949ad6079a010f24d86851c47d80f35472182"
+  },
+  "MRBEE": {
+    "pool": "Mushrooms & Bees",
+    "ticker": "MRBEE",
+    "cardano_preview": "https://preview.cexplorer.io/pool/pool14fdr8cpz0qpgzkrucu2q7hst2pa3u5ssfej7kuepdq4v7lkyxg3",
+    "cardano_mainnet": "https://cexplorer.io/pool/pool1hvevy8qu5lwg7ul66xmzvwv8zwdgdradsg9ncvrflm7dvy407e0",
+    "cardano_sidechain_pub_key": "0x0372952d326b023e8ce0565547d49f063165b6f044ce0ac5b2295ed78e028ba89e"
+  }
+}
